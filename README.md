@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/SKATASHIN/SKATASHIN/main/img/snake.svg) 
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
