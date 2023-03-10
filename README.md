@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/SKATASHIN/SKATASHIN/master/img/snake.svg) 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/SKATASHIN/SKATASHIN/main/img/snake.svg) 
